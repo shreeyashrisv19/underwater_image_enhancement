@@ -165,6 +165,7 @@ The following comparison shows representative results from the pipeline:
 
 Input → Retinex → WaterNet → Fusion → Ground Truth
 
+![Final Comparison](results/final_comparison.png)
 ---
 
 ## Repository Structure
